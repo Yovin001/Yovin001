@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://github.com/Yovin001/Yovin001/blob/main/BannerYU.png)
+![Header](https://github.com/Yovin001/Yovin001/blob/main/BannerYu.png)
 
 # 👋 Hi, I'm Yovin Stiven Urrego Gómez  
 🎯 **Backend Developer | Computer Science Engineer**  
